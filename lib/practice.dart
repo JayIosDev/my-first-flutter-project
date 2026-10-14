@@ -29,6 +29,24 @@ void main() {
   bool toggle = true;
 
 
+  var value;
+
+  value = 10;
+
+  value = 'Some value';
+
+  value = true;
+
+  dynamic value2;
+
+  value2 = 20;
+
+  value2 = 'Value2';
+
+  value2 = false;
+  
+
+
 }
 
 class Human {
