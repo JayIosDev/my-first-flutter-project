@@ -8,4 +8,11 @@ void main() {
   var name = stdin.readLineSync();
 
   print("Welcome, $name");
+
+  Human();
+}
+
+class Human {
+
+
 }
